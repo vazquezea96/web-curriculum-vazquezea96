@@ -30,3 +30,19 @@ Relationship to other shells:
 - Bash
 - rc
 - z shell
+
+
+inovators:
+- Louis Pouzin: developed the RUNCOM tool for executing command scripts. 
+- Ken Thompson: developed the unix shell v6 in 1971
+- macintosh and windows replaced the cli for the gui in the 1980s and 1990s.
+- Microsoft released version 1.0 of Windows Powershell.
+- MacOS: since 2001 has been based on a unix-like operating system called darwin.z-shell is the default shell for macOS.
+- Dennis Ritchie
+- Douglas Mcllroy
+
+
+
+Resources used:
+- Packt Commandline Fundamentals
+- Command line interface wikapedia 
