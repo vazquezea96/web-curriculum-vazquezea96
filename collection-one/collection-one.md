@@ -2,156 +2,26 @@
 
 #### [Module: Command Line](modules/command-line/command-line.md)
 ---
-##### Unit 1: Getting to Know the Command Line
+The "Command Line" module is structured to guide you from a foundational understanding to advanced mastery of the Command Line Interface (CLI). The overarching goal is to equip you with the knowledge and skills to effectively utilize the CLI, a critical tool in the tech industry for developers, system administrators, and beyond. Starting with the basics of what the command line is, its historical context, and its advantages over graphical user interfaces, the module progresses through essential commands, text manipulation, and concludes with advanced scripting techniques and utilities. By the end of this module, you will have developed a thorough understanding and practical ability to navigate, manipulate, and leverage the command line, enhancing your efficiency, versatility, and capability in tech-related tasks and projects. This comprehensive journey is designed not just to familiarize you with commands and syntax but to make the CLI a powerful extension of your toolkit in the tech landscape
 
-The tickets for this module are [here](https://github.com/orgs/Vets-Who-Code/projects/50)
+The tickets for this module are located for you [here](https://github.com/orgs/Vets-Who-Code/projects/50).
 
-Welcome to "Getting to Know the Command Line." This unit is your gateway into the foundational and advanced concepts of the Command Line Interface (CLI), a cornerstone tool for anyone in tech. Whether you're a budding developer, a system administrator, or simply curious about what lies beyond the graphical user interface (GUI), this section has you covered. We'll begin by demystifying what the command line is, offering both historical context and a comparison with its GUI counterpart. From there, you'll learn why the CLI is not just an alternative but often a preferred environment for speed, versatility, and automation. We'll break down the nuanced relationship between the terminal and shell—two terms often used interchangeably but are fundamentally different in function and form. You'll also get acquainted with popular terminal emulators, diving into customization options and shortcuts. Lastly, we’ll explore the various shell types available—Bash, Zsh, Fish, and Dash—each with its own unique set of features and benefits. By the end of this unit, the command line will be less of a black box and more of a familiar, powerful toolset to aid in your tech journey.
+#### [Module: Git and GitHub (Terminal & UI)](modules/git-and-github/introduction-to-git-and-github.md)
+---
+The "Git and GitHub (Terminal & UI)" module offers a comprehensive learning journey that begins with the fundamentals of GitHub, guiding you through setting up an account, enhancing your profile, and understanding security measures. It further dives into mastering Markdown, GitHub's special features like Issues, Actions, and Pages, and the essentials of Git through terminal and UI, including version control basics and local machine setup. The module progresses to practical GitHub repository operations, introducing you to repository creation, collaboration, and the Git workflow. It also explores Git Flow, a branching model for efficient project management, and introduces the GitHub CLI for enhanced terminal interaction with GitHub. Lastly, the module covers GitHub Projects, teaching you to utilize GitHub's project management tools for organizing and automating tasks. By the end, you'll have a deep understanding of both Git and GitHub, equipped with the skills to manage code versions, collaborate on projects, and streamline your development workflow.
+
+The tickets for this module are located for you [here](https://github.com/orgs/Vets-Who-Code/projects/75).
+#### [Module: HTML && CSS](modules/html-and-css/html-and-css.md)
 
 ---
-##### Unit 2: Basic Commands
+The "HTML & CSS" module is meticulously designed to lay a solid foundation in web development, beginning with HTML's core principles, including its history, structure, and essential elements like forms and tables. It transitions into CSS, introducing styling, layout, and responsive design basics, before delving into advanced layout techniques with Flexbox and Grid. Tailwind CSS is explored for its utility-first approach, enhancing rapid, custom UI development. The module culminates in a capstone project where learners apply their knowledge to update a web page, integrating layout planning, responsive design, and deployment. Each unit builds upon the last, ensuring a comprehensive understanding of web page creation, styling, and modern layout systems, preparing learners for creating sophisticated, responsive web interfaces.
 
-Welcome to the unit on "Basic Commands," your stepping stone into the world of command line operations. This unit is designed to get you comfortable with the most essential Unix/Linux commands you'll use on a day-to-day basis. From navigating directories and manipulating files to understanding permissions and disk usage, each lesson here aims to arm you with the fundamental commands and concepts that will make you proficient in terminal-based tasks. In this unit, we'll cover commands like `cd`, `ls`, `cp`, and `chmod`, while also delving into advanced topics like wildcards and file paths. Whether you're setting up a new project, automating routine tasks, or managing system resources, these foundational commands are your building blocks. By the end of this unit, you'll be equipped with a set of practical skills that will make the command line an invaluable part of your toolkit.
-
----
-##### Unit 3: Text Manipulation
-
-Text manipulation is an indispensable skill when working in a command-line environment. This unit delves into the tools and techniques that enable efficient text processing, searching, and editing. We'll kick things off by learning how to view and navigate through large text files using commands like `cat`, `less`, and `more`. Next, we'll introduce text editors such as `nano`, `vi`, and `emacs` that you can use directly from the command line.
-
-Searching for specific text within files is made easy with utilities like `grep`, `sed`, and `awk`. You'll also learn about input and output redirection using symbols like `>`, `>>`, and `|`, and how they can be combined with commands to perform more complex operations. We'll also cover how to compare files and identify differences with commands like `diff` and `comm`.
-
-The unit will also touch on sorting and filtering text through commands such as `sort`, `uniq`, `cut`, and `paste`. Finally, we'll delve into the basics of regular expressions—a powerful feature that can match complex text patterns.
-
-By the end of this unit, you'll have a solid understanding of how to manipulate text files efficiently, perform advanced searches, and automate repetitive tasks. Your journey through this unit will give you the tools to handle a variety of text manipulation challenges that you'll encounter in software development, data analysis, and system administration.
-
----
-##### Unit 4: Advanced Features
-
-This unit aims to elevate your understanding of shell scripting and command-line operations to an advanced level. You'll delve into the intricacies of shell scripting, handling environmental variables, using aliases and shortcuts for efficiency, mastering command history, understanding job control, monitoring processes, and scheduling tasks. Each lesson provides comprehensive details, from syntax and best practices to debugging techniques. By the end of this unit, you'll have a robust set of skills that will enable you to navigate and manipulate the command-line interface like a pro.
-
----
-##### Unit 5: Command Line Utilities
-
-In Unit 5, we're diving into the nitty-gritty of command-line utilities that'll make your life easier. We'll explore everything from managing software packages with apt and brew, to mastering network tools like ping and ssh. You'll also get to keep an eye on your system's health with monitoring tools such as top and htop. And that's not all—there's file compression, data transfer, and even lessons on user management and system info. By the end, you'll be a command-line wizard, ready to tackle any challenge. Sounds fun, right? Let's get started
-
-
-#### Module: Git and GitHub (Terminal & UI)
----
-##### Unit 1: Introduction to Git and GitHub
-
-The unit provides a comprehensive, step-by-step guide to mastering GitHub, a crucial platform for anyone in the software development field. It's broken down into three key lessons. The first lesson serves as an introduction to GitHub, delving into its importance and ecosystem. The second lesson tackles the practicalities of setting up an account, guiding you through the user interface, the dashboard, and the essentials of two-factor authentication for enhanced security. The third lesson focuses on optimizing your GitHub profile, including how to add a profile picture, bio, and even customize your GitHub URL. It also explains how to manage and showcase your repositories by adding and pinning them to your profile. This unit equips you with the foundational knowledge and skills needed to effectively use GitHub for your coding projects.
-
----
-##### Unit 2: Learning Markdown and GitHub Special Features
-
-The subsequent unit in the course expands your GitHub skillset by diving into specialized features and functionalities. The first lesson introduces Markdown, covering everything from basic syntax to advanced features, and even GitHub's own flavor of Markdown. You'll also learn how to create a Profile README using the platform's user interface. The second lesson shifts focus to key GitHub features, walking you through the interface for managing Issues and Discussions, utilizing GitHub Actions for automation, setting up GitHub Pages for hosting websites, and even sponsoring developers. By the end of this unit, you'll have a deeper understanding of how to leverage GitHub's features, both standard and unique, to streamline your workflow and contribute to the community.
-
----
-##### Unit 3: Basics of Git (Terminal & UI)
-
-This unit shifts the focus to Git, the version control system that serves as the backbone of GitHub. The first lesson kicks things off with an introduction to essential Git terminologies, followed by instructions for installing Git through the terminal. You'll also get an overview of basic Git commands and a comparative look at Git versus SVN. The second lesson is all about setting up Git on your local machine. Here, you'll dive into terminal-based configurations, SSH key setup, user identity configuration, and how to set up a proxy if needed. Finally, the third lesson brings you hands-on experience with your first Git commands. You'll learn how to initialize a new repository and clone an existing one, all through the terminal. The lesson also covers how to commit changes, both via the user interface and the terminal, and delves into the concept of staging and essential commands like git log and git status. By the end of this unit, you'll be well-equipped to manage your code versions using Git.
-
----
-##### Unit 4: GitHub Repository Operations
-
-The following unit seamlessly integrates your newfound Git knowledge with practical GitHub use-cases. The first lesson focuses on creating your first GitHub repository. You'll navigate through the repository setup on GitHub's user interface, learn how to clone that repository using the terminal, and gain insights into essential files like README, .gitignore, and License. The lesson also explains how to add collaborators via the user interface, making team-based projects more accessible. The second lesson delves into the basic Git workflow, teaching you essential commands like git add, git commit, and git push, all executed via the terminal. From there, you'll learn how to create Pull Requests, review code, and merge those Pull Requests, all through GitHub's UI. By the end of this unit, you'll have the practical skills needed to manage a project on GitHub, from initial setup to code collaboration and merging.
-
----
-##### Unit 5: Git Flow
-
-The upcoming unit dives into Git Flow, a branching model for Git that provides a robust framework for managing larger and more complex projects. The first lesson starts with an explanation of what Git Flow is, covering both the conceptual understanding and the practical steps through the user interface and terminal. You'll then move onto implementing a feature using Git Flow, learning how to manage branches and merge changes, all via the terminal. The lesson also covers hotfixes and releases, teaching you how to address urgent issues and release updates through terminal commands. Finally, you'll explore Git tags and versioning, learning how to keep track of different versions of your codebase effectively. By the end of this unit, you'll have a firm grasp on Git Flow and how to implement it in your projects, giving you a more structured and efficient way to manage your code.
-
----
-##### Unit 6: GitHub CLI
-
-The next unit introduces you to GitHub CLI (Command Line Interface), a powerful tool that allows you to interact with GitHub directly from your terminal. The first lesson guides you through the installation process and familiarizes you with basic CLI commands. You'll also learn about creating aliases for frequently used commands and how to authenticate your GitHub account in the CLI. The second lesson dives deeper into managing repositories via the terminal. Here, you'll learn how to create and clone repositories, manage pull requests and forks, and even how to handle issues—all using CLI commands. The third lesson fine-tunes your CLI skills by covering more advanced features. You'll learn how to manage issues and pull requests, work with Gists and GitHub Actions, and navigate through repositories, all from the terminal. You'll also pick up tips on using search and filters to find what you're looking for. By the end of this unit, you'll be proficient in using GitHub CLI, giving you a faster and more streamlined approach to code management.
-
----
-##### Unit 7: GitHub Projects
-
-The following unit demystifies GitHub Projects, a feature-rich project management tool integrated within GitHub. The first lesson introduces what GitHub Projects are, accessible entirely through the user interface. You'll learn how to create a Project Board, add issues and pull requests to it, and even how to automate various project tasks right within GitHub. The second lesson offers a hands-on guide on using a GitHub Projects Board template. Here, you'll discover how to copy a pre-existing template through the UI and customize it to fit your project's needs. This includes setting up project columns, adding cards, and integrating these elements with GitHub Actions for advanced automation. By the end of this unit, you'll be well-equipped to utilize GitHub Projects for effective project management, making your development workflow more organized and efficient.
-
-#### Module: HTML && CSS
----
-##### Unit 1: Introduction to HTML
-
-This unit provides a comprehensive exploration of HTML, the bedrock language for web page creation. Starting with "What is HTML?", it takes you on a historical journey, detailing the evolution of HTML, its pivotal role in web development, and the distinctions between it and XHTML, culminating in the advancements of HTML5. It sheds light on the browser's role in interpreting HTML, nuances like self-closing tags, and the intricacies of commenting. The second lesson, "Basic HTML Structure," offers a hands-on introduction to the core components of an HTML document, from understanding tags and attributes to the anatomy of the head, body, and overall document structure. The critical roles of meta tags, title elements for SEO, and user experience are emphasized, along with insights into integrating external resources like CSS and JavaScript. The unit concludes by underscoring the importance of browser compatibility and HTML validation, equipping you with the knowledge to create web pages with assurance and finesse.
-
----
-##### Unit 2: HTML Text Elements and Links
-
-"HTML Text Elements and Links" offers a detailed exploration into the realm of HTML text presentation and interactivity. The "Text Formatting" lesson unpacks techniques ranging from structuring paragraphs and headings to using emphasis and strong tags, text alignment, and including special characters through HTML entities. you are also introduced to preserving textual integrity with preformatted text and enhancing content with quotations and abbreviations. Transitioning to "Links and Lists," the course delves into anchor tags, creating diverse lists—unordered, ordered, and nested—and explores customization with list attributes. The unit also touches on varied linking methods, such as image and email links, controlling link behaviors using the "target" attribute, and facilitating in-page navigation with bookmark links. A significant emphasis is placed on accessibility, ensuring a universal web experience. By the end of this unit, you will be proficient in effectively shaping and interlinking web content.
-
----
-##### Unit 3: HTML Forms and Tables
-
-"HTML Forms and Tables" provides a deep dive into the world of data collection and representation in web design. The lesson on forms offers a comprehensive look at form tags, various input types, and the role of labels for accessibility, introducing dynamic elements such as text areas, checkboxes, radio buttons, dropdowns, multi-select options, file uploads, and functional buttons. Meanwhile, the tables lesson delves into constructing organized tabular data through a foundational structure, rows, columns, headers, cell merging techniques using colspan and rowspan, and adding contextual captions. It touches on the importance of table aesthetics, introduces essential segments like thead, tbody, and tfoot for enhanced structure, and covers advanced topics like table sorting and nested tables. By the end of this unit, you will be proficient in crafting interactive forms and presenting intricate data through tables.
-
----
-##### Unit 4: Introduction to CSS
-Unit 4 serves as a comprehensive gateway into the world of Cascading Style Sheets (CSS), a key technology in web development responsible for styling, layout, and responsive design. The unit is divided into two core lessons. The first lesson kicks off with a brief history of CSS, providing context for its evolution and importance in web development. It then dives into the foundational aspects, such as syntax, selectors, properties, and values. This lesson also covers critical concepts like the cascade, which explains how conflicting styles are resolved; specificity, which outlines the rules determining which styles take precedence; and inheritance, detailing which styles are passed down from parent to child elements. Media queries are also introduced as a powerful tool for responsive design, allowing developers to adapt styles to various devices.
-
-The second lesson focuses on the practical aspects of CSS by teaching basic styling techniques. This includes understanding how to apply colors and fonts, align text, and control spacing through margins and padding. The lesson also explores the CSS box model, which is essential for understanding the layout of web pages. Further, you’ll learn to enhance the visual appeal of your website through features like backgrounds, borders, rounded corners, and shadows. Pseudo-classes are introduced as a way to target elements in specific states, like hovering, adding another layer of interactivity to web designs. By the end of this unit, you'll have a strong foundation in CSS, equipping you with the knowledge and skills to create visually stunning and responsive web pages.
-
----
-#### Unit 5: Flex and Grid Layout
-Unit 5 is on "Understanding Grid and Flexbox Layouts" is a deep dive into two crucial layout models in modern web design. The first part covers CSS Grid, focusing on its 2D capabilities for arranging elements in both rows and columns. The second part explores Flexbox, a 1D layout system for distributing items along a single axis. The lesson wraps up with a comparison of when to use each system, equipping you with the knowledge to make informed decisions for various layout needs.
-
----
-##### Unit 6: Tailwind CSS
-
-Unit 6 delves into Tailwind CSS, a highly versatile utility-first CSS framework designed for rapidly building custom user interfaces. This unit is neatly divided into two main lessons.
-
-The first lesson, "Introduction to Tailwind CSS," starts by answering the question, "Why Tailwind?" to give you insight into its advantages over traditional CSS and other frameworks. Then, it guides you through installing Tailwind via CDN for quick setup. Utility classes form the backbone of Tailwind, offering direct-to-element styling, and you'll learn how to wield these effectively. The lesson goes on to explore how Tailwind excels in creating responsive designs with minimal effort. Configuration and customization are straightforward, with Tailwind offering an array of options to extend its core functionality, customize forms, and implement themes. Additionally, you'll get an introduction to available plugins that can add more features to your project and a rundown of valuable community resources to aid in your journey.
-
-The second lesson, "Applying Tailwind in an HTML Project," focuses on practical implementation. You'll explore how to apply typography styles, manipulate layouts, and utilize Grid and Flexbox, two of the most powerful layout systems in modern web design. The lesson also teaches you how to control element positioning and manage spacing effectively. Tailwind's system for colors and theming allows for significant customization, and you'll learn how to harness that. We'll also delve into built-in components and patterns that can speed up your development process. The lesson wraps up by discussing how to extend Tailwind's functionality beyond its built-in utilities and reviewing best practices for efficient and maintainable code.
-
-By the end of this unit, you'll have a robust understanding of Tailwind CSS, from its philosophy to its practical application, empowering you to create complex, responsive, and highly customized web interfaces with speed and efficiency.
-
----
-##### Unit 7: Project Time
-Unit 7, titled "Project Time," serves as the capstone experience for applying all you've learned by focusing on updating your VetsWhoCode (VWC) prework webpage. The unit is structured into three core lessons. The first lesson, "Updating Your VWC Prework Webpage," delves into layout planning and updating HTML, laying the foundation in terms of structure and content. The second lesson shifts the focus to styling, where you'll implement Tailwind CSS to create a responsive and visually appealing design. The final lesson, "Review and Deploy," guides you through the debugging process and covers the steps for deploying your project using GitHub Pages. This last lesson not only includes a final review but also suggests next steps, provides additional resources, and rounds off with a congratulatory note, marking your successful completion of the project and readiness for more advanced work.
-
----
+The tickets for this module are located for you [here](https://github.com/orgs/Vets-Who-Code/projects/78).
 
 #### Module: Accessibility
 ---
+The module on Accessibility provides a thorough framework for understanding and implementing web accessibility, beginning with foundational concepts such as its definition, importance, and legal guidelines, and moving through practical lessons on making text, media, navigation, and interactions accessible. It covers key principles like the POUR guidelines and delves into specifics such as text and media optimization, keyboard and form accessibility, as well as visual considerations like color contrast and responsive design. Advanced topics include using ARIA for enhanced accessibility and methods for testing web accessibility effectively. The module concludes with actionable best practices, real-world case studies to illustrate the benefits and pitfalls of web accessibility efforts, and a hands-on project to audit and improve a web page's accessibility. This comprehensive approach not only educates on the technical aspects but also underscores the ethical imperative of creating inclusive web environments.
 
-##### Unit 1: Introduction to Web Accessibility
-
-In the first lesson, "What is Web Accessibility?", the focus is on laying the foundation for understanding web accessibility. This encompasses its definition, why it's important, and the legal guidelines that mandate it. The lesson also delves into the business advantages of making web content accessible, highlights the moral obligation to make the web inclusive, and introduces the concept of inclusive design. The second lesson, "Key Principles of Accessibility," takes a deeper dive into the core tenets that guide accessible web design and development. It introduces the POUR principles, which stand for Perceivable, Operable, Understandable, and Robust, and emphasizes the need for creating websites that are accessible to all. This lesson also discusses the nuances between usability and accessibility, outlines various types of disabilities that accessibility measures aim to address, and introduces assistive technologies used to improve web accessibility. Together, these lessons provide a comprehensive introduction to the essential topics in web accessibility.
-
----
-##### Unit 2: Text and Media Accessibility
-
-The lesson on "Text Accessibility" zeroes in on key elements that help make text-based web content more accessible. This includes appropriate use of headings to establish content hierarchy, employing lists for better organization of information, and optimizing links for clear navigation. It also emphasizes the importance of using semantic HTML tags for better screen reader compatibility and selecting fonts that are easily readable across different devices and user settings. Following that, the "Media Accessibility" lesson shifts the focus to non-text elements like images, videos, and audio. The lesson details the necessity of providing alternative text for images, adding captions to videos, and making transcripts available for audio content. It also explains how to make tables accessible, ensuring that data is easily understandable for everyone, including those using assistive technologies. These lessons offer a thorough guide to making both text and media elements on web pages accessible to a diverse audience.
-
----
-##### Unit 3: Navigational and Interaction Accessibility
-
-The "Keyboard Accessibility" lesson concentrates on creating a navigable and interactive experience for users who rely solely on keyboards. Key elements like tab order for logical flow, custom keyboard shortcuts for enhanced functionality, focus states for indicating active elements, and the use of ARIA roles for semantic clarity are covered. This lesson ensures that web interfaces are operable even without a mouse. The subsequent lesson on "Forms and Inputs" tackles the critical elements that make web forms accessible. This includes proper labeling for form elements, the use of fieldsets to group related items, creating clear and helpful validation messages, and ensuring dropdown menus are accessible. The aim is to provide a seamless and inclusive experience for all users when they interact with web forms, whether they are using assistive technologies or not. These lessons collectively address the vital aspects of web interactivity and data input, making them indispensable for any inclusive web development project.
-
----
-##### Unit 4: Visual Accessibility
-
-The "Color and Contrast" lesson digs into the visual aspects of web accessibility, exploring how color choices can affect readability and user experience. The lesson educates on the basics of color theory to set the stage for more inclusive design decisions, explains the importance of maintaining adequate contrast ratios as per WCAG guidelines, and introduces tools that can assist in checking whether a design meets contrast standards. Following this, the "Responsive and Mobile Accessibility" lesson broadens the scope to consider how web content behaves across various devices. It covers the use of media queries to adapt layouts, the implementation of flexible grids for a fluid design, the need for accessible navigation menus, and the importance of adequately sized touch targets for mobile interfaces. Together, these lessons equip developers with the knowledge to make visually appealing yet accessible web interfaces that work seamlessly across a multitude of devices and user settings.
-
----
-##### Unit 5: Advanced Topics
-
-The "ARIA (Accessible Rich Internet Applications)" lesson provides an in-depth look at ARIA, a vital toolkit for enhancing web accessibility. This lesson explains what ARIA is and its significance in creating more accessible web content and applications. It goes on to detail how to effectively utilize roles, states, and properties to enrich HTML semantics and improve user experience. Additionally, ARIA landmarks are discussed, which help users with screen readers navigate more effortlessly through the web content. Following this, the "Testing for Accessibility" lesson equips you with practical strategies for evaluating web accessibility. It introduces methods for manual testing, such as keyboard navigation and visual inspection, as well as automated tools like WAVE and Axe. The lesson also highlights different types of screen readers and how to test with them, and emphasizes the importance of compiling comprehensive reports to document any accessibility issues. Collectively, these lessons give a rounded understanding of how to implement and test for web accessibility.
-
----
-##### Unit 6: Best Practices and Case Studies
-
-The "Best Practices" lesson aims to provide practical, actionable steps to improve web accessibility quickly and effectively. It outlines "Quick Wins"—easy, immediate fixes like adding alt text to images or using semantic HTML. These are contrasted with "Long-term Strategies" that require a more sustained effort, such as incorporating inclusive design from a project's inception or scheduling regular accessibility audits. Then, the "Real-world Case Studies" lesson takes a more empirical approach by looking at actual examples. It highlights "Success Stories" of companies that have reaped benefits from making their websites more accessible. Conversely, "Lessons Learned" details cautionary tales of companies that faced legal repercussions due to inadequate web accessibility. This section also covers the "ROI of Accessibility," showing that beyond being a moral and legal obligation, web accessibility can offer a significant return on investment. Together, these lessons offer both the tactical and strategic, underpinned by real-world evidence, to make a compelling case for web accessibility.
-
----
-##### Unit 7: Project Time
-
-The "Auditing Your VWC Prework Webpage" lesson kicks off the hands-on phase, guiding you through the initial steps of auditing your web project for accessibility. You'll learn how to leverage automated tools like WAVE and Axe for a quick overview of existing issues, as well as how to perform manual checks, such as keyboard navigation tests and visual inspections. Following the audit, the "Implementing Fixes" lesson dives into the nitty-gritty of actually addressing the identified issues. This covers tweaking your HTML semantics for better structure, adding ARIA landmarks to assist with navigation, and ensuring your text and colors meet contrast standards for readability. Once the fixes are in place, the "Final Review and Next Steps" lesson directs you through the wrap-up stages. Here, you'll use debugging tools to catch any last-minute issues, conduct final tests to ensure you've nailed down all the accessibility requirements, and then deploy your updates. You'll also get a list of additional resources for further learning. Finally, a hearty congratulations for completing the project, certifying your skills in making web content more accessible.
-
----
 #### Module: User Experience Design
 ---
 
